@@ -5,7 +5,7 @@
 
 [Zisha Zhong](https://scholar.google.com/citations?user=FYvMdNcAAAAJ), [Jinlin Huang], [Lanqi Gong], [Beibei Ru](https://scholar.google.com/citations?user=QB7Aj4YAAAAJ&hl=en), [Rohit Paul], [Jason Levine], [Kenneth Aldape](https://ccr.cancer.gov/staff-directory/kenneth-aldape), [Peng Jiang](https://ccr.cancer.gov/staff-directory/peng-jiang)
 
-[[`Paper`](https://ccr.cancer.gov/staff-directory/peng-jiang)] [[`Project`](https://ccr.cancer.gov/staff-directory/peng-jiang)] [[`HERE website`](https://hereapp.ccr.cancer.gov/)] [[`HERE101 Dataset`](https://ccr.cancer.gov/staff-directory/peng-jiang)] [[`BibTeX`](#citing-here-paper)]
+[[`Paper`](https://ccr.cancer.gov/staff-directory/peng-jiang)] [[`Project`](https://ccr.cancer.gov/staff-directory/peng-jiang)] [[`HERE App`](https://hereapp.ccr.cancer.gov/)] [[`HERE101 Dataset`](https://github.com/data2intelligence/HERE101)] [[`BibTeX`](#citing-here-paper)]
 
 Hematoxylin and Eosin staining (H&E) is widely used in clinical practice, but efficient and versatile Google-like retrieval tools are lacking. We developed the **H&E Retrieval Engine (HERE, https://hereapp.ccr.cancer.gov)** to assist clinicians in analyzing patient cases based on image similarities to database records. Using H&E image regions as input, HERE searches 18.9 terabytes of whole-slide images from the National Cancer Institute and The Cancer Genome Atlas and returns top images containing regions similar to the query. HERE scans high-resolution images in the database using accurate artificial intelligence encoding and ultra-efficient hierarchical skip indexing. HERE demonstrated performance superior to current image retrieval tools based on pathologist scoring of images returned using benchmark queries that represent key image features in human tumors. By pairing spatial transcriptomics with H&E images, HERE further enables retrievals from images to gene expression data and genes to image features.
 
@@ -47,8 +47,8 @@ If you use HERE or HERE101 dataset in your research, please use the following Bi
 @article{jiang2024ncihereapp,
   title={Google-like web engine for tumor pathology image retrievals on massive scales},
   author={Zhong, Zisha and Huang, Jinlin and Gong, Lanqi and Ru, Beibei and Paul, Rohit and Levine, Jason and Aldape, Kenneth and Jiang Peng},
-  journal={bioXiv preprint:XXXXXX},
-  url={https://www.biorxiv.org/content/XXXXXX},
+  journal={Submitted},
+  url={Submitted},
   year={2024}
 }
 ```
